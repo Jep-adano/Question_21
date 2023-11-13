@@ -9,13 +9,7 @@ heart = [
     {
         "heart-id": "3",
         "date": "14/12/2024",
-<<<<<<< HEAD
         "heart-rate": "140bpm"
-=======
-        "heart-rate": "180bpm"
->>>>>>> f6bca4c9a9a7116d20f318c866426ffd8626fb9b
-    }
-
 ]
 
 @app.route('/21', methods=['GET'])
